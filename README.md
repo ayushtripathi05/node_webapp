@@ -12,8 +12,8 @@ Here's a quick view to what it looks like..
  To run this application  on your machine please install npm modules in your system 
  
  * ### For windows
- 1 npm init 
- 2 npm i express
- 3 npm i hbs
- 4 npm i postman-request
+ 1 npm init <br>
+ 2 npm i express <br>
+ 3 npm i hbs <br>
+ 4 npm i postman-request <br>
  5 npm i nodemon
